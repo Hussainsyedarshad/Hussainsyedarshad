@@ -7,6 +7,7 @@ Hello, I'm Syed Arshad Hussain, a passionate Data Analyst. Below you'll find lin
 - **Role**: Data Analyst
 - **Email**: [hussainsyedarshad8@gmail.com](mailto:hussainsyedarshad8@gmail.com)
 - **LinkedIn**: (https://www.linkedin.com/in/arshadhussain-analyst/)
+- **PORTFOLIO**: (https://www.datascienceportfol.io/hussainsyedarshad72)
 
 ## Projects
 Here are some of the repositories I've been working on:
