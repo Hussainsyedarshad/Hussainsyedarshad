@@ -12,7 +12,7 @@ Hello, I'm Syed Arshad Hussain, a passionate Data Analyst. Below you'll find lin
 ## Projects
 Here are some of the repositories I've been working on:
 
-- **[OTT MERGE ANALYSIS](https://app.powerbi.com/groups/me/reports/da2ce50d-323d-447f-a336-c39f5d6cb221/ReportSection?experience=fabric-developer)**: 🎥📊 Strategic Merger Insights in the OTT Domain This project was part of the Codebasics Resume Project Challenge #14 and focused on uncovering actionable insights to support a strategic merger between LioCinema and Jotstar, two leading Indian OTT platforms.
+PROJECT - 1 -[OTT MERGE ANALYSIS](https://app.powerbi.com/groups/me/reports/da2ce50d-323d-447f-a336-c39f5d6cb221/ReportSection?experience=fabric-developer)**: 🎥📊 Strategic Merger Insights in the OTT Domain This project was part of the Codebasics Resume Project Challenge #14 and focused on uncovering actionable insights to support a strategic merger between LioCinema and Jotstar, two leading Indian OTT platforms.
 
 🚀 Project Objective Evaluate platform performance, user behavior, and content consumption patterns to help establish Lio-Jotstar as India's #1 OTT platform.
 
@@ -58,8 +58,8 @@ Boost Engagement: Reactivate LioCinema's dormant users
 
 Monetization Strategy: Adapt Jotstar's success formula for paid plans
 
-Content Optimization: Align content offerings to serve a broader audience post-merger
-- **[FESTIVAL SALES ANALYSIS](https://app.powerbi.com/groups/me/reports/4a257278-df00-4151-a6ef-218df9018325/aecb7a79c901dbe378be?experience=power-bi)**: Atliq Mart, a retail giant with over 50 supermarkets, recently ran massive promotions during Diwali 2023 and Sankranti 2024 on their Atiq branded products. As the sales director wanted immediate insights into the success of these promotions, I took charge of analyzing the data and presenting key findings.
+Content Optimization: Align content offerings to serve a broader audience post-merger.
+PROJECT -2 - [FESTIVAL SALES ANALYSIS](https://app.powerbi.com/groups/me/reports/4a257278-df00-4151-a6ef-218df9018325/aecb7a79c901dbe378be?experience=power-bi)**: Atliq Mart, a retail giant with over 50 supermarkets, recently ran massive promotions during Diwali 2023 and Sankranti 2024 on their Atiq branded products. As the sales director wanted immediate insights into the success of these promotions, I took charge of analyzing the data and presenting key findings.
 
 🔍 Leveraging SQL and PowerBI, I dove into the data provided by our stakeholders to uncover which promotions performed well and which ones didn't. To streamline the analysis process and avoid repeating code, I created a view in SQL called "sales summary," which provided a consolidated overview of sales data.
 
@@ -73,7 +73,7 @@ Content Optimization: Align content offerings to serve a broader audience post-m
 🎯 𝗜𝗺𝗽𝗮𝗰𝘁:
 
 ▪ Increased sales by 107.64% during Diwali and 113.58% during Sankranti. ▪ Identified top-performing products and category. ▪ Uncovered hidden patterns that will inform marketing decisions
-- **[EXCEL-FINACIAL-ANALYSIS](https://github.com/Hussainsyedarshad/EXCEL-FINANCIAL-SALES-ANALYSIS-REPORT)**:Created a report for AtliQ Hardwares
+PROJECT - 3- [EXCEL-FINACIAL-ANALYSIS](https://github.com/Hussainsyedarshad/EXCEL-FINANCIAL-SALES-ANALYSIS-REPORT)**:Created a report for AtliQ Hardwares
 
 AtliQ Business Model 💻
 
